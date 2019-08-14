@@ -11,3 +11,4 @@ elif a + b == c + d:
     print("yes")
 else:
     print("no")
+#study git
