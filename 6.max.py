@@ -3,7 +3,6 @@
 i = 0
 N = int(input())
 while N != 0:
-    #i += N
     if i <= N:
        i = N
     N = int(input())
